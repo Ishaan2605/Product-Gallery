@@ -4,6 +4,7 @@
 Overview
 
 The Product Gallery is a simple and interactive web-based application that allows users to add, edit, delete, and search for products in a visually appealing 3x3 grid format. The project is designed using HTML, CSS, and JavaScript, with styling powered by Bootstrap for a sleek and responsive UI.
+![Uploading image.png…]()
 
 Features
 
