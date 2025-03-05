@@ -64,20 +64,6 @@ JavaScript - Enabling interactivity (add, edit, delete, search products).
 
 Bootstrap - Used for styling and grid layout.
 
-Installation & Setup
-
-Clone this repository:
-
-git clone https://github.com/your-username/product-gallery.git
-
-Navigate to the project directory:
-
-cd product-gallery
-
-Open index.html in a web browser to run the application.
-
-Ensure styles.css and script.js are correctly linked in index.html.
-
 File Structure
 
 📂 product-gallery
